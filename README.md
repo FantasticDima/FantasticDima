@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 17yo C.S. student<br>- Currently working on J2ME Loader for Homebrew Nintendo 3DS<br>- Currently learning ML, Software Engineering & Electronics<br>- Dream to be Mechanical Engineer<br>- Owner of Full-prepa MBK Booster Athena B.B.<br><br>I like to put my hands on stuff.
+- 17yo C.S. student at ITT S. Cannizzaro (MI)<br>- Currently working on J2ME Loader for Homebrew Nintendo 3DS<br>- Currently learning ML, Software Engineering & Electronics<br>- Dream to be Mechanical Engineer<br>- Owner of Full-prepa MBK Booster Athena B.B.<br><br>I like to put my hands on stuff.
 
 
 ## 🌐 Socials:
